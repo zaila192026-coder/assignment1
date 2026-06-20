@@ -1,0 +1,38 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px
+    ;
+}
+
+table{
+    border: 2px solid black;
+}
+
+th {
+    border: 1px solid rgb(0, 0, 0);
+}
+td{
+  border: 1px solid rgb(0, 0, 0);
+}  
+img{
+    width: 100%;
+    height: 150px;
+}
+
+.june19 {
+    width: 100%;
+    height: 300px ;
+}
+
+.head {
+    border-radius: 4%;
+    border: 2px solid ;
+    border-color: grey;
+    background-color: rgb(216, 214, 187);
+    
+}
+h1 {
+    font-size: 40px;
+}
+
